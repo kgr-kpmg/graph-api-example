@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UserSecretsId>09122651-3828-4496-9092-562a23a90c89</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Identity.Web" Version="1.24.0" />
+    <PackageReference Include="Microsoft.Identity.Web.MicrosoftGraph" Version="1.24.0" />
+  </ItemGroup>
+
+</Project>

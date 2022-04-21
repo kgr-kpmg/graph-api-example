@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32414.318
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListSharepointsAPI", "ListSharepointsAPI\ListSharepointsAPI.csproj", "{6C40E2BD-2757-48E3-9AA6-9793936D7E54}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C40E2BD-2757-48E3-9AA6-9793936D7E54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C40E2BD-2757-48E3-9AA6-9793936D7E54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C40E2BD-2757-48E3-9AA6-9793936D7E54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C40E2BD-2757-48E3-9AA6-9793936D7E54}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BA82BA38-5A6D-440C-926F-0DD4CC38F2CE}
+	EndGlobalSection
+EndGlobal
